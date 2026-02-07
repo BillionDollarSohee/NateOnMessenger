@@ -9,7 +9,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Helpers\" />
     <Folder Include="Resources\" />
     <Folder Include="Services\" />
@@ -19,7 +26,6 @@
   <ItemGroup>
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="10.0.2" />
-    <PackageReference Include="System.Net.Http.Json" Version="10.0.2" />
   </ItemGroup>
 
 </Project>
